@@ -18,20 +18,48 @@ SDG 12 – Responsible Consumption and Production**
 The project promotes responsible waste management by helping users make better decisions about waste segregation, disposal, and reuse.
 
 🤖 How It Works
+
 User
+
   ↓
+  
 Enters waste item
+
   ↓
+  
 Python Program
+
   ↓
+  
 Gemini AI API
+
   ↓
+  
 AI analyzes the waste
+
   ↓
+  
 Waste Category
+
 Disposal Method
+
 Preparation
+
 Reuse Idea
+
 Eco-friendly Tip
+
   ↓
+  
 Results displayed to user
+
+
+🛠️ Technologies Used
+
+Python – Main programming language
+
+Gemini API – AI model used for waste analysis and recommendations
+
+Google GenAI Python SDK – Used to communicate with the Gemini API
+
+Prompt Engineering – Used to guide the AI response
